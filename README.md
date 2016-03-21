@@ -1,2 +1,3 @@
-# sails-js-angular2-spa
-sails js + angular2 + spa
+# p006-angular2-001
+
+a [Sails](http://sailsjs.org) application
